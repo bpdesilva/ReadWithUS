@@ -143,15 +143,7 @@ CREATE TABLE `librarian` (
 ) ENGINE=InnoDB AUTO_INCREMENT=5 DEFAULT CHARSET=utf8;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
---
--- Dumping data for table `librarian`
---
 
-LOCK TABLES `librarian` WRITE;
-/*!40000 ALTER TABLE `librarian` DISABLE KEYS */;
-INSERT INTO `librarian` VALUES (2,'Victoria','Marshall','962568010V','vmarshall@rws.com','0218654780'),(3,'Jarret','Walsh','905672356V','jwalsh@rws.com','0913642184'),(4,'Steve','Cruse','862453215V','scruse@rws.com','0923446420');
-/*!40000 ALTER TABLE `librarian` ENABLE KEYS */;
-UNLOCK TABLES;
 
 --
 -- Table structure for table `member`
@@ -173,15 +165,6 @@ CREATE TABLE `member` (
 ) ENGINE=InnoDB AUTO_INCREMENT=7 DEFAULT CHARSET=utf8;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
---
--- Dumping data for table `member`
---
-
-LOCK TABLES `member` WRITE;
-/*!40000 ALTER TABLE `member` DISABLE KEYS */;
-INSERT INTO `member` VALUES (2,'Kendra','Travis','993215692V','ktravis@gmail.com','0878824648',0,2),(3,'Lara','Baker','884562318V','lbaker@ymail.com','0314411980',0,0),(4,'shamil','mubarak ali','99061146v','shamila@gmil.com','0722621634',0,0),(5,'arshad','farook','9912345678v','arshada@gmail.com','0771234567',0,0),(6,'evon ','cruze ','1234567890v','evon@gmail.com','0761234567',0,0);
-/*!40000 ALTER TABLE `member` ENABLE KEYS */;
-UNLOCK TABLES;
 
 --
 -- Table structure for table `reserve`
@@ -228,31 +211,3 @@ CREATE TABLE `users` (
 ) ENGINE=InnoDB AUTO_INCREMENT=10 DEFAULT CHARSET=utf8;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
---
--- Dumping data for table `users`
---
-
-LOCK TABLES `users` WRITE;
-/*!40000 ALTER TABLE `users` DISABLE KEYS */;
-INSERT INTO `users` VALUES (1,'administrator','123','Librarian',1,'Existing'),(4,'vmarshall','m@234','Librarian',2,'Existing'),(5,'jwalsh','j@234','Librarian',3,'Existing'),(6,'ktravis','k@234','Member',2,'Existing'),(7,'evon','123456789','Member',6,'Existing'),(8,'scool','','Member',2,'Existing'),(9,'scruse','123','Librarian',4,'Existing');
-/*!40000 ALTER TABLE `users` ENABLE KEYS */;
-UNLOCK TABLES;
-
---
--- Dumping events for database 'lms'
---
-
---
--- Dumping routines for database 'lms'
---
-/*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
-
-/*!40101 SET SQL_MODE=@OLD_SQL_MODE */;
-/*!40014 SET FOREIGN_KEY_CHECKS=@OLD_FOREIGN_KEY_CHECKS */;
-/*!40014 SET UNIQUE_CHECKS=@OLD_UNIQUE_CHECKS */;
-/*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
-/*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
-/*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
-/*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
-
--- Dump completed on 2018-06-15 22:40:46
