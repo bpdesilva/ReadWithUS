@@ -39,3 +39,11 @@ The high level requirements of the system.
 
 Implement an Object Oriented solution for the given scenario using Netbeans IDE. Java
 Solution.
+
+Sample : 
+
+<br />
+<br />
+![alternativetext](https://github.com/bpdesilva/ReadWithUS/blob/master/Sample/Login.png)
+<br />
+![alternativetext](https://github.com/bpdesilva/ReadWithUS/blob/master/Sample/Normal.png)
