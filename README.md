@@ -46,4 +46,5 @@ Sample :
 <br />
 ![alternativetext](https://github.com/bpdesilva/ReadWithUS/blob/master/Sample/Login.png)
 <br />
-![alternativetext](https://github.com/bpdesilva/ReadWithUS/blob/master/Sample/Normal.png)
+<br />
+![alternativetext11](https://github.com/bpdesilva/ReadWithUS/blob/master/Sample/Normal.png)
