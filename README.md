@@ -43,11 +43,11 @@ Solution.
 Sample : 
 
 <p>
-    <img src="https://raw.githubusercontent.com/bpdesilva/ReadWithUS/master/Sample/Login.png" width="220" height="240" />
+    <img src="https://raw.githubusercontent.com/bpdesilva/ReadWithUS/master/Sample/Login.png"/>
 </p>
 
 <br />
 
 <p>
-    <img src="https://raw.githubusercontent.com/bpdesilva/ReadWithUS/master/Sample/Normal.png" width="220" height="240" />
+    <img src="https://raw.githubusercontent.com/bpdesilva/ReadWithUS/master/Sample/Normal.png"/>
 </p>
