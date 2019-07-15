@@ -42,9 +42,12 @@ Solution.
 
 Sample : 
 
+<p>
+    <img src="https://raw.githubusercontent.com/bpdesilva/ReadWithUS/master/Sample/Login.png" width="220" height="240" />
+</p>
+
 <br />
-<br />
-![alternativetext](https://raw.githubusercontent.com/bpdesilva/ReadWithUS/master/Sample/Login.png)
-<br />
-<br />
-![alternativetext11](https://raw.githubusercontent.com/bpdesilva/ReadWithUS/master/Sample/Normal.png)
+
+<p>
+    <img src="https://raw.githubusercontent.com/bpdesilva/ReadWithUS/master/Sample/Normal.png" width="220" height="240" />
+</p>
